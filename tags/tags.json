@@ -2,3079 +2,3250 @@
     "air-quality": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/air-quality"
     },
     "ART-23AC-FA21": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/ART-23AC-FA21"
     },
     "ART-W23AC": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/ART-W23AC"
     },
     "Bio-1B": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/Bio-1B"
     },
     "BLDAP-Su21-student": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/BLDAP-Su21-student"
     },
     "BUDS-su20": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/BUDS-su20"
     },
     "BUDS-su21": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/BUDS-su21"
     },
     "BUDS-SU21-Dev": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/BUDS-SU21-Dev"
     },
     "BUDS-SU22": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/BUDS-SU22"
     },
     "CalTeach-FA22": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/CalTeach-FA22"
     },
     "CE-110": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/CE-110"
     },
     "CE200B": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/CE200B"
     },
     "CIVENG-190": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/CIVENG-190"
     },
     "COGSCI-1": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/COGSCI-1"
     },
     "COGSCI-131-FA20": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/COGSCI-131-FA20"
     },
     "COGSCI-1B": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/COGSCI-1B"
     },
     "COGSCI-C131-PSYCH-123-FA20": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/COGSCI-C131-PSYCH-123-FA20"
     },
     "Colab-data-8": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/Colab-data-8"
     },
     "colwrit-r4b": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/colwrit-r4b"
     },
     "core-resources": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/core-resources"
     },
     "course-assets": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/course-assets"
     },
     "CP-101-SP21": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/CP-101-SP21"
     },
     "CP-101-student": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/CP-101-student"
     },
     "CP-113A": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/CP-113A"
     },
     "CP-113B": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/CP-113B"
     },
     "CP101BigData": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/CP101BigData"
     },
     "CUNEIF-102A": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/CUNEIF-102A"
     },
     "curriculum-guide": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/curriculum-guide"
     },
     "DATA-198-SP21": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/DATA-198-SP21"
     },
     "data-4ac": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/data-4ac"
     },
     "DATA198-SP21.github.io": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/DATA198-SP21.github.io"
     },
     "Data198-SP22": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/Data198-SP22"
     },
     "DATA198-SP23": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/DATA198-SP23"
     },
     "data8-esp": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/data8-esp"
     },
     "DATA88-SP22": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/DATA88-SP22"
     },
     "datahub-homepage": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/datahub-homepage"
     },
     "Deepnote-demo": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/Deepnote-demo"
     },
     "DS-Modules": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/DS-Modules"
     },
     "ds-modules.github.io": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/ds-modules.github.io"
     },
     "E-157AC": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/E-157AC"
     },
     "E7": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/E7"
     },
     "ECON-101B": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/ECON-101B"
     },
     "ECON-130-FA22": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/ECON-130-FA22"
     },
     "ECON-140-FA21": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/ECON-140-FA21"
     },
     "ECON-140-FA22-RDE": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/ECON-140-FA22-RDE"
     },
     "ECON-140-FA22-SB": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/ECON-140-FA22-SB"
     },
     "ECON-140-SP21": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/ECON-140-SP21"
     },
     "ECON-140-SP22": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/ECON-140-SP22"
     },
     "ECON-140-SP23-SB": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/ECON-140-SP23-SB"
     },
     "ECON-140-SU22": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/ECON-140-SU22"
     },
     "ECON-141": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/ECON-141"
     },
     "ECON-141-SP20": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/ECON-141-SP20"
     },
     "ECON-143-SP22": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/ECON-143-SP22"
     },
     "ECON-148": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/ECON-148"
     },
     "Econ-172-Sp21": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/Econ-172-Sp21"
     },
     "ECON-172-SP22": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/ECON-172-SP22"
     },
     "ECON-172-SP23": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/ECON-172-SP23"
     },
     "EDUC-223B": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/EDUC-223B"
     },
     "EDUC-W142": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/EDUC-W142"
     },
     "EEP-147": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/EEP-147"
     },
     "EEP-147-SP20": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/EEP-147-SP20"
     },
     "EEP-147-SP21": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/EEP-147-SP21"
     },
     "EEP-147-SP22": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/EEP-147-SP22"
     },
     "EEP-147-SP23": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/EEP-147-SP23"
     },
     "EEP102": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/EEP102"
     },
     "ENGIN-7": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/ENGIN-7"
     },
     "ENVECON-100": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/ENVECON-100"
     },
     "ENVECON-118-FA20": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/ENVECON-118-FA20"
     },
     "ENVECON-118-FA21": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/ENVECON-118-FA21"
     },
     "ENVECON-118-FA22": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/ENVECON-118-FA22"
     },
     "ENVECON-118-SP23": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/ENVECON-118-SP23"
     },
     "EPS-115-SP20": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/EPS-115-SP20"
     },
     "EPS-118-SP20": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/EPS-118-SP20"
     },
     "EPS-130": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/EPS-130"
     },
     "EPS-130-SP20": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/EPS-130-SP20"
     },
     "EPS-130-SP21": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/EPS-130-SP21"
     },
     "EPS-130-SP22": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/EPS-130-SP22"
     },
     "EPS-C20": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/EPS-C20"
     },
     "EPS130-21521-SP23": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/EPS130-21521-SP23"
     },
     "EPS256-FA20": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/EPS256-FA20"
     },
     "EPS88-24031-FA22": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/EPS88-24031-FA22"
     },
     "ES-21AC-SP19": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/ES-21AC-SP19"
     },
     "ES-21AC-sp20": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/ES-21AC-sp20"
     },
     "ES-21AC-SP21": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/ES-21AC-SP21"
     },
     "ES-21AC-SP21-key": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/ES-21AC-SP21-key"
     },
     "ESPM-109E-SP22": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/ESPM-109E-SP22"
     },
     "ESPM-163ac": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/ESPM-163ac"
     },
     "espm-c167": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/espm-c167"
     },
     "ETHSTD-21AC": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/ETHSTD-21AC"
     },
     "ETHSTD-21AC-SP22": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/ETHSTD-21AC-SP22"
     },
     "examples": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/examples"
     },
     "featured-modules": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/featured-modules"
     },
     "FRENCH-43": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/FRENCH-43"
     },
     "GLOBAL-88-SP22": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/GLOBAL-88-SP22"
     },
     "global-fa21": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/global-fa21"
     },
     "GS102-SurveyData-FA20": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/GS102-SurveyData-FA20"
     },
     "GWS-101": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/GWS-101"
     },
     "GWS-131": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/GWS-131"
     },
     "HCE-Materials": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/HCE-Materials"
     },
     "HIST-160": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/HIST-160"
     },
     "HIST-283": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/HIST-283"
     },
     "HIST-88": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/HIST-88"
     },
     "HTRC-Uncamp": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/HTRC-Uncamp"
     },
     "IAS-106": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/IAS-106"
     },
     "IAS-150": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/IAS-150"
     },
     "IB-105-ESPM-125-fa20": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/IB-105-ESPM-125-fa20"
     },
     "IB-105-ESPM-125-FA21": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/IB-105-ESPM-125-FA21"
     },
     "IB-161-SP21": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/IB-161-SP21"
     },
     "IB-C32": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/IB-C32"
     },
     "IB-ESPM-105": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/IB-ESPM-105"
     },
     "INFO-290": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/INFO-290"
     },
     "infodem-covid-babies": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/infodem-covid-babies"
     },
     "infodem-mental-health": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/infodem-mental-health"
     },
     "Infodemiology-Mental-Health": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/Infodemiology-Mental-Health"
     },
     "Infodemiology-Nutrition": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/Infodemiology-Nutrition"
     },
     "Infodemiology-Pregnancy": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/Infodemiology-Pregnancy"
     },
     "Infodemiology-Projects": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/Infodemiology-Projects"
     },
     "ISF-189": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/ISF-189"
     },
     "LEGAL-190-FA22": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/LEGAL-190-FA22"
     },
     "Legalst-123": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/Legalst-123"
     },
     "LEGALST-190": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/LEGALST-190"
     },
     "Library": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/Library"
     },
     "Library-Data-Workshop-Fall-2022": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/Library-Data-Workshop-Fall-2022"
     },
     "Library-HTRC": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/Library-HTRC"
     },
     "LINGUIS-110": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/LINGUIS-110"
     },
     "LS-22": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/LS-22"
     },
     "LS-88": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/LS-88"
     },
     "materials-x22": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/materials-x22"
     },
     "MCB-140": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/MCB-140"
     },
     "MCB-163L": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/MCB-163L"
     },
     "MCB-288": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/MCB-288"
     },
     "MCB-32": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/MCB-32"
     },
     "MCB-50": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/MCB-50"
     },
     "MECENG-103": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/MECENG-103"
     },
     "MEDST-250": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/MEDST-250"
     },
     "Module-Feedback": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/Module-Feedback"
     },
     "modules-ipynb-workshop": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/modules-ipynb-workshop"
     },
     "modules-textbook": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/modules-textbook"
     },
     "music-30": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/music-30"
     },
     "nbinteract-image": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/nbinteract-image"
     },
     "NESTUD-190A": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/NESTUD-190A"
     },
     "PACS-190": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/PACS-190"
     },
     "PH-142": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/PH-142"
     },
     "PH150E-CP117AC": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/PH150E-CP117AC"
     },
     "polisci-3": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/polisci-3"
     },
     "POLSCI-3": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/POLSCI-3"
     },
     "POLSCI-5": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/POLSCI-5"
     },
     "POLSCI3-FA20": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/POLSCI3-FA20"
     },
     "POLSCI3-Fa20-Dev": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/POLSCI3-Fa20-Dev"
     },
     "ps-106a": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/ps-106a"
     },
     "PS-88-21-DEV": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/PS-88-21-DEV"
     },
     "PS88-SP23-Public": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/PS88-SP23-Public"
     },
     "PSYCH-167AC": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/PSYCH-167AC"
     },
     "PUBPOL-ETHSTD-C164A-SP23": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/PUBPOL-ETHSTD-C164A-SP23"
     },
     "R-Module": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/R-Module"
     },
     "RDM-DeCal": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/RDM-DeCal"
     },
     "sample-intro-notebooks": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/sample-intro-notebooks"
     },
     "sather-tower": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/sather-tower"
     },
     "Search-Engine": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/Search-Engine"
     },
     "SOC-130AC": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/SOC-130AC"
     },
     "SOC-5": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/SOC-5"
     },
     "SOC-5-Fall19": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/SOC-5-Fall19"
     },
     "SOC-88-SP21": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/SOC-88-SP21"
     },
     "Spanish": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/Spanish"
     },
     "SPORTS": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/SPORTS"
     },
     "surveydata": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/surveydata"
     },
     "SW-282": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/SW-282"
     },
     "textbook": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/textbook"
     },
     "workshop-su20": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/workshop-su20"
     },
     "XENGLIS-31AC": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/XENGLIS-31AC"
     },
     "XRHETOR-R1A": {
         "name": "<course_name>",
         "department": "<department_name>",
-        "course_number": "<course_name>",
+        "number": "<course_number>",
         "semester": "<course_semester>",
+        "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
         ],
-        "domain": "<domain>",
         "technologies": [
             "<tech1>"
         ],
         "concepts": [
-            "<tech1>"
+            "<concept1>"
         ],
         "professor": "<prof_name>",
-        "is_course": true
+        "is_course": true,
+        "url": "https://github.com/ds-modules/XRHETOR-R1A"
     }
 }
