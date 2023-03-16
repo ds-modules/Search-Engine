@@ -1,0 +1,3080 @@
+{
+    "air-quality": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "ART-23AC-FA21": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "ART-W23AC": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "Bio-1B": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "BLDAP-Su21-student": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "BUDS-su20": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "BUDS-su21": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "BUDS-SU21-Dev": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "BUDS-SU22": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "CalTeach-FA22": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "CE-110": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "CE200B": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "CIVENG-190": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "COGSCI-1": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "COGSCI-131-FA20": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "COGSCI-1B": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "COGSCI-C131-PSYCH-123-FA20": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "Colab-data-8": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "colwrit-r4b": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "core-resources": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "course-assets": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "CP-101-SP21": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "CP-101-student": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "CP-113A": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "CP-113B": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "CP101BigData": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "CUNEIF-102A": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "curriculum-guide": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "DATA-198-SP21": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "data-4ac": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "DATA198-SP21.github.io": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "Data198-SP22": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "DATA198-SP23": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "data8-esp": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "DATA88-SP22": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "datahub-homepage": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "Deepnote-demo": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "DS-Modules": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "ds-modules.github.io": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "E-157AC": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "E7": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "ECON-101B": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "ECON-130-FA22": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "ECON-140-FA21": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "ECON-140-FA22-RDE": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "ECON-140-FA22-SB": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "ECON-140-SP21": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "ECON-140-SP22": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "ECON-140-SP23-SB": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "ECON-140-SU22": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "ECON-141": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "ECON-141-SP20": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "ECON-143-SP22": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "ECON-148": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "Econ-172-Sp21": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "ECON-172-SP22": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "ECON-172-SP23": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "EDUC-223B": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "EDUC-W142": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "EEP-147": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "EEP-147-SP20": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "EEP-147-SP21": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "EEP-147-SP22": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "EEP-147-SP23": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "EEP102": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "ENGIN-7": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "ENVECON-100": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "ENVECON-118-FA20": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "ENVECON-118-FA21": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "ENVECON-118-FA22": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "ENVECON-118-SP23": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "EPS-115-SP20": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "EPS-118-SP20": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "EPS-130": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "EPS-130-SP20": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "EPS-130-SP21": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "EPS-130-SP22": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "EPS-C20": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "EPS130-21521-SP23": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "EPS256-FA20": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "EPS88-24031-FA22": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "ES-21AC-SP19": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "ES-21AC-sp20": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "ES-21AC-SP21": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "ES-21AC-SP21-key": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "ESPM-109E-SP22": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "ESPM-163ac": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "espm-c167": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "ETHSTD-21AC": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "ETHSTD-21AC-SP22": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "examples": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "featured-modules": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "FRENCH-43": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "GLOBAL-88-SP22": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "global-fa21": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "GS102-SurveyData-FA20": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "GWS-101": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "GWS-131": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "HCE-Materials": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "HIST-160": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "HIST-283": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "HIST-88": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "HTRC-Uncamp": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "IAS-106": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "IAS-150": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "IB-105-ESPM-125-fa20": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "IB-105-ESPM-125-FA21": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "IB-161-SP21": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "IB-C32": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "IB-ESPM-105": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "INFO-290": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "infodem-covid-babies": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "infodem-mental-health": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "Infodemiology-Mental-Health": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "Infodemiology-Nutrition": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "Infodemiology-Pregnancy": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "Infodemiology-Projects": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "ISF-189": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "LEGAL-190-FA22": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "Legalst-123": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "LEGALST-190": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "Library": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "Library-Data-Workshop-Fall-2022": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "Library-HTRC": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "LINGUIS-110": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "LS-22": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "LS-88": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "materials-x22": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "MCB-140": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "MCB-163L": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "MCB-288": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "MCB-32": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "MCB-50": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "MECENG-103": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "MEDST-250": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "Module-Feedback": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "modules-ipynb-workshop": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "modules-textbook": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "music-30": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "nbinteract-image": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "NESTUD-190A": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "PACS-190": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "PH-142": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "PH150E-CP117AC": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "polisci-3": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "POLSCI-3": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "POLSCI-5": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "POLSCI3-FA20": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "POLSCI3-Fa20-Dev": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "ps-106a": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "PS-88-21-DEV": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "PS88-SP23-Public": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "PSYCH-167AC": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "PUBPOL-ETHSTD-C164A-SP23": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "R-Module": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "RDM-DeCal": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "sample-intro-notebooks": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "sather-tower": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "Search-Engine": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "SOC-130AC": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "SOC-5": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "SOC-5-Fall19": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "SOC-88-SP21": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "Spanish": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "SPORTS": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "surveydata": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "SW-282": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "textbook": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "workshop-su20": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "XENGLIS-31AC": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    },
+    "XRHETOR-R1A": {
+        "name": "<course_name>",
+        "department": "<department_name>",
+        "course_number": "<course_name>",
+        "semester": "<course_semester>",
+        "prerequisites": [
+            "<prereq1>"
+        ],
+        "domain": "<domain>",
+        "technologies": [
+            "<tech1>"
+        ],
+        "concepts": [
+            "<tech1>"
+        ],
+        "professor": "<prof_name>",
+        "is_course": true
+    }
+}
