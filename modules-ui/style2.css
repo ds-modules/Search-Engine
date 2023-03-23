@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend&display=swap');
+
+/* Variables */
+
+:root {
+    --black: rgba(0, 0, 0, 1);
+    --midnight-blue: rgba(22, 61, 110, 1);
+    --white: rgba(255, 255, 255, 1);
+
+    --font-size-xs: 21px;
+    --font-size-s: 22px;
+    --font-size-m: 24px;
+    --font-size-1: 40px;
+
+
+}
+
+
+.navbar{
+    padding-left:100px;
+    padding-right:100px;
+    font-family: 'Lexend', sans-serif;
+    font-size: 20px;
+}
+
+.card-container{
+    font-family: 'Lexend', sans-serif;
+}
+
+.module-text{
+    font-family: 'Lexend', sans-serif;
+}
+
+.main-image{
+    margin: auto;
+    display: block;
+}
