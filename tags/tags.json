@@ -1539,10 +1539,10 @@
         "url": "https://github.com/ds-modules/EPS88-24031-FA22"
     },
     "ES-21AC-SP19": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "A Comparative Survey of Racial and Ethnic Groups in the U.S",
+        "department": "Ethnic Studies",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Spring 2019",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1558,10 +1558,10 @@
         "url": "https://github.com/ds-modules/ES-21AC-SP19"
     },
     "ES-21AC-sp20": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "A Comparative Survey of Racial and Ethnic Groups in the U.S",
+        "department": "Ethnic Studies",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Spring 2020",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1577,10 +1577,10 @@
         "url": "https://github.com/ds-modules/ES-21AC-sp20"
     },
     "ES-21AC-SP21": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "A Comparative Survey of Racial and Ethnic Groups in the U.S",
+        "department": "Ethnic Studies",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Spring 2021",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1691,10 +1691,10 @@
         "url": "https://github.com/ds-modules/ETHSTD-21AC"
     },
     "ETHSTD-21AC-SP22": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "A Comparative Survey of Racial and Ethnic Groups in the U.S",
+        "department": "Ethnic Studies",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Spring 2022",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1767,10 +1767,10 @@
         "url": "https://github.com/ds-modules/FRENCH-43"
     },
     "GLOBAL-88-SP22": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Data Science and Global Studies",
+        "department": "Global Studies",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Spring 2022",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
