@@ -16,11 +16,38 @@
 }
 
 
+.nav-link {
+    margin-right: 20px;
+  }
+
+
 .navbar{
-    padding-left:100px;
-    padding-right:100px;
-    font-family: 'Lexend', sans-serif;
-    font-size: 20px;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 17px;
+}
+
+.nav-item {
+    position: relative; /* set the position of the nav item to relative */
+}
+
+.nav-item:hover::after {
+  content: '';
+  position: absolute;
+  left: 15%;
+  bottom: -2px !important;
+  width: 70%;
+  height: 1px;
+  border-bottom: 1.5px solid #000000; /* replace background-color with border */
+  animation: border-animate 0.3s forwards;
+}
+
+@keyframes border-animate {
+    0% {
+        transform: scaleX(0); /* set the initial state of the animation */
+    }
+    100% {
+        transform: scaleX(1); /* set the final state of the animation */
+    }
 }
 
 .card-container{
