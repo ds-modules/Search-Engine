@@ -80,6 +80,107 @@ div p5 {
     position: relative; /* set the position of the nav item to relative */
 }
 
+.rectangle_1 {
+  width: 75px;
+  height: 10px;
+  background-color: #0F588B;
+  position: absolute;
+  left: 70%;
+  bottom: 100px;
+  transform: translateX(-50%);
+  animation-name: grow;
+  animation-duration: 2s;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+}
+
+.rectangle_2 {
+  width: 75px;
+  height: 10px;
+  background-color: #197697;
+  position: absolute;
+  left: 78%;
+  bottom: 100px;
+  transform: translateX(-50%);
+  animation-name: grow_2;
+  animation-duration: 2s;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+}
+
+.rectangle_3 {
+  width: 75px;
+  height: 10px;
+  background-color: #3796D3;
+  position: absolute;
+  left: 86%;
+  bottom: 100px;
+  transform: translateX(-50%);
+  animation-name: grow_3;
+  animation-duration: 2s;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+}
+
+@keyframes grow {
+  from { height: 0; }
+  to { height: 100px; }
+}
+
+@keyframes grow_2 {
+  from { height: 0; }
+  to { height: 200px; }
+}
+
+@keyframes grow_3 {
+  from { height: 0; }
+  to { height: 300px; }
+}
+
+
+.rise_blue {
+  position: absolute;
+  top: 30%;
+  left: 65%;
+  z-index: -2;
+}
+
+.rotate1 {
+  position: absolute;
+  top: 10%;
+  /* center the star vertically */
+  left: 55%;
+  /* center the star horizontally */
+  transform: translate(-50%, -50%);
+  /* adjust the star position to be centered */
+  z-index: -2;
+  /* set the z-index to be behind the text */
+  animation: spin 30s linear infinite;
+}
+
+.rotate2 {
+  position: absolute;
+  top: 40%;
+  /* center the star vertically */
+  left: 70%;
+  /* center the star horizontally */
+  transform: translate(-50%, -50%);
+  /* adjust the star position to be centered */
+  z-index: -2;
+  /* set the z-index to be behind the text */
+  animation: spin 30s linear infinite;
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
 .nav-item:hover::after {
   content: '';
   position: absolute;
