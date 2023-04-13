@@ -81,8 +81,8 @@ div p5 {
 }
 
 .rectangle_1 {
-  width: 75px;
-  height: 10px;
+  width: 70px;
+  height: 0px;
   background-color: #0F588B;
   position: absolute;
   left: 70%;
@@ -90,34 +90,37 @@ div p5 {
   transform: translateX(-50%);
   animation-name: grow;
   animation-duration: 2s;
+  animation-delay: 1s;
   animation-iteration-count: 1;
   animation-fill-mode: forwards;
 }
 
 .rectangle_2 {
-  width: 75px;
-  height: 10px;
+  width: 70px;
+  height: 0px;
   background-color: #197697;
   position: absolute;
-  left: 78%;
+  left: 77%;
   bottom: 100px;
   transform: translateX(-50%);
   animation-name: grow_2;
   animation-duration: 2s;
+  animation-delay: 1.5s;
   animation-iteration-count: 1;
   animation-fill-mode: forwards;
 }
 
 .rectangle_3 {
-  width: 75px;
-  height: 10px;
+  width: 70px;
+  height: 0px;
   background-color: #3796D3;
   position: absolute;
-  left: 86%;
+  left: 84%;
   bottom: 100px;
   transform: translateX(-50%);
   animation-name: grow_3;
   animation-duration: 2s;
+  animation-delay: 2s;
   animation-iteration-count: 1;
   animation-fill-mode: forwards;
 }
@@ -129,13 +132,94 @@ div p5 {
 
 @keyframes grow_2 {
   from { height: 0; }
-  to { height: 200px; }
+  to { height: 180px; }
 }
 
 @keyframes grow_3 {
   from { height: 0; }
-  to { height: 300px; }
+  to { height: 260px; }
 }
+
+.rectangle_4 {
+  width: 70px;
+  height: 0px;
+  background-color: #DEA428;
+  position: absolute;
+  left: 91%;
+  bottom: 100px;
+  transform: translateX(-50%);
+  animation-name: grow_4;
+  animation-duration: 2s;
+  animation-delay: 2.5s;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+}
+
+@keyframes grow_4 {
+  from { height: 0; }
+  to { height: 340px; }
+}
+
+.rectangle_5 {
+  width: 70px;
+  height: 0px;
+  background-color: #EEC41A;
+  position: absolute;
+  left: 98%;
+  bottom: 100px;
+  transform: translateX(-50%);
+  animation-name: grow_5;
+  animation-duration: 2s;
+  animation-delay: 3s;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+}
+
+@keyframes grow_5 {
+  from { height: 0; }
+  to { height: 260px; }
+}
+
+.rectangle_6 {
+  width: 70px;
+  height: 0px;
+  background-color: #4AB96F;
+  position: absolute;
+  left: 105%;
+  bottom: 100px;
+  transform: translateX(-50%);
+  animation-name: grow_6;
+  animation-duration: 2s;
+  animation-delay: 3.5s;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+}
+
+@keyframes grow_6 {
+  from { height: 0; }
+  to { height: 180px; }
+}
+
+.rectangle_7 {
+  width: 70px;
+  height: 0px;
+  background-color: #3796D3;
+  position: absolute;
+  left: 112%;
+  bottom: 100px;
+  transform: translateX(-50%);
+  animation-name: grow_7;
+  animation-duration: 2s;
+  animation-delay: 4s;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+}
+
+@keyframes grow_7 {
+  from { height: 0; }
+  to { height: 100px; }
+}
+
 
 
 .rise_blue {
