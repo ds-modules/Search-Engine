@@ -1,15 +1,13 @@
-const slideInText = document.querySelectorAll('.slide-in-text');
+const slideInText2 = document.querySelector('.slide-in-text2');
 
 const observer = new IntersectionObserver(entries => {
   entries.forEach(entry => {
-    if (entry.intersectionRatio > 0) {
-      entry.target.classList.add('slide-in');
+    if (entry.isIntersecting) {
+      entry.target.classList.add('slide-in2');
     } else {
-      entry.target.classList.remove('slide-in');
+      entry.target.classList.remove('slide-in2');
     }
   });
 });
 
-slideInText.forEach(text => {
-  observer.observe(text);
-});
+observer.observe(slideInText2);
