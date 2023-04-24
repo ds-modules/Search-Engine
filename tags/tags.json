@@ -779,8 +779,8 @@
         "url": "https://github.com/ds-modules/E7"
     },
     "ECON-101B": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Economic Theory-Macro",
+        "department": "Economics",
         "number": "<course_number>",
         "semester": "<course_semester>",
         "domain": "<domain>",
@@ -798,10 +798,10 @@
         "url": "https://github.com/ds-modules/ECON-101B"
     },
     "ECON-130-FA22": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Using Economics for Public Policy",
+        "department": "Economics",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Fall 2022",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -817,10 +817,10 @@
         "url": "https://github.com/ds-modules/ECON-130-FA22"
     },
     "ECON-140-FA21": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Econometrics",
+        "department": "Economics",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Fall 2021",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -836,10 +836,10 @@
         "url": "https://github.com/ds-modules/ECON-140-FA21"
     },
     "ECON-140-FA22-RDE": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Econometrics",
+        "department": "Economics",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Fall 2022",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -855,10 +855,10 @@
         "url": "https://github.com/ds-modules/ECON-140-FA22-RDE"
     },
     "ECON-140-FA22-SB": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Econometrics",
+        "department": "Economics",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Fall 2022",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -874,10 +874,10 @@
         "url": "https://github.com/ds-modules/ECON-140-FA22-SB"
     },
     "ECON-140-SP21": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Econometrics",
+        "department": "Economics",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Spring 2021",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -893,10 +893,10 @@
         "url": "https://github.com/ds-modules/ECON-140-SP21"
     },
     "ECON-140-SP22": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Econometrics",
+        "department": "Economics",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Spring 2022",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -912,10 +912,10 @@
         "url": "https://github.com/ds-modules/ECON-140-SP22"
     },
     "ECON-140-SP23-SB": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Econometrics",
+        "department": "Economics",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Spring 2023",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -931,10 +931,10 @@
         "url": "https://github.com/ds-modules/ECON-140-SP23-SB"
     },
     "ECON-140-SU22": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Econometrics",
+        "department": "Economics",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Summer 2022",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -950,10 +950,10 @@
         "url": "https://github.com/ds-modules/ECON-140-SU22"
     },
     "ECON-141": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Econometric Analysis",
+        "department": "Economics",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Spring 2019",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -969,10 +969,10 @@
         "url": "https://github.com/ds-modules/ECON-141"
     },
     "ECON-141-SP20": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Econometric Analysis",
+        "department": "Economics",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Spring 2020",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -988,10 +988,10 @@
         "url": "https://github.com/ds-modules/ECON-141-SP20"
     },
     "ECON-143-SP22": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Econometrics: Advanced Methods and Applications",
+        "department": "Economics",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Spring 2022",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1007,10 +1007,10 @@
         "url": "https://github.com/ds-modules/ECON-143-SP22"
     },
     "ECON-148": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Data Science for Economists",
+        "department": "Economics",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Spring 2023",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1026,10 +1026,10 @@
         "url": "https://github.com/ds-modules/ECON-148"
     },
     "Econ-172-Sp21": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Case Studies in Economic Development",
+        "department": "Economics",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Spring 2021",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1045,10 +1045,10 @@
         "url": "https://github.com/ds-modules/Econ-172-Sp21"
     },
     "ECON-172-SP22": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Case Studies in Economic Development",
+        "department": "Economics",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Spring 2022",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1064,10 +1064,10 @@
         "url": "https://github.com/ds-modules/ECON-172-SP22"
     },
     "ECON-172-SP23": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Case Studies in Economic Development",
+        "department": "Economics",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Spring 2023",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1254,8 +1254,8 @@
         "url": "https://github.com/ds-modules/ENGIN-7"
     },
     "ENVECON-100": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Microeconomic Theory with Application to Natural Resources",
+        "department": "Agricultural and Resource Economics and Policy",
         "number": "<course_number>",
         "semester": "<course_semester>",
         "domain": "<domain>",
@@ -1273,10 +1273,10 @@
         "url": "https://github.com/ds-modules/ENVECON-100"
     },
     "ENVECON-118-FA20": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Introductory Applied Econometrics",
+        "department": "Agricultural and Resource Economics and Policy",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Fall 2020",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1292,10 +1292,10 @@
         "url": "https://github.com/ds-modules/ENVECON-118-FA20"
     },
     "ENVECON-118-FA21": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Introductory Applied Econometrics",
+        "department": "Agricultural and Resource Economics and Policy",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Fall 2021",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1311,10 +1311,10 @@
         "url": "https://github.com/ds-modules/ENVECON-118-FA21"
     },
     "ENVECON-118-FA22": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Introductory Applied Econometrics",
+        "department": "Agricultural and Resource Economics and Policy",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Fall 2022",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1330,10 +1330,10 @@
         "url": "https://github.com/ds-modules/ENVECON-118-FA22"
     },
     "ENVECON-118-SP23": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Introductory Applied Econometrics",
+        "department": "Agricultural and Resource Economics and Policy",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Spring 2023",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
