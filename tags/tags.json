@@ -1,9 +1,9 @@
 {
     "air-quality": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Air Quality",
+        "department": "",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -19,10 +19,10 @@
         "url": "https://github.com/ds-modules/air-quality"
     },
     "ART-23AC-FA21": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Data Arts",
+        "department": "Art Practice",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Fall 2021",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -38,10 +38,10 @@
         "url": "https://github.com/ds-modules/ART-23AC-FA21"
     },
     "ART-W23AC": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "ART-W23AC",
+        "department": "Art Practice",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Multiple",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -57,10 +57,10 @@
         "url": "https://github.com/ds-modules/ART-W23AC"
     },
     "Bio-1B": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "General Biology",
+        "department": "Integrative Biology",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Multiple",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -76,10 +76,10 @@
         "url": "https://github.com/ds-modules/Bio-1B"
     },
     "BLDAP-Su21-student": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "BLDAP",
+        "department": "",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Summer 2021",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -95,9 +95,9 @@
         "url": "https://github.com/ds-modules/BLDAP-Su21-student"
     },
     "BUDS-su20": {
-        "name": "<course_name>",
-        "department": "<department_name>",
-        "number": "<course_number>",
+        "name": "Berkeley Unboxing Data Science",
+        "department": "Computing, Data Science, and Society",
+        "number": "Summer 2020",
         "semester": "<course_semester>",
         "domain": "<domain>",
         "prerequisites": [
@@ -114,10 +114,10 @@
         "url": "https://github.com/ds-modules/BUDS-su20"
     },
     "BUDS-su21": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Berkeley Unboxing Data Science",
+        "department": "Computing, Data Science, and Society",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Summer 2021",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -133,10 +133,10 @@
         "url": "https://github.com/ds-modules/BUDS-su21"
     },
     "BUDS-SU21-Dev": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Berkeley Unboxing Data Science",
+        "department": "Computing, Data Science, and Society",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Summer 2021",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -152,10 +152,10 @@
         "url": "https://github.com/ds-modules/BUDS-SU21-Dev"
     },
     "BUDS-SU22": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Berkeley Unboxing Data Science",
+        "department": "Computing, Data Science, and Society",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Summer 2022",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -171,10 +171,10 @@
         "url": "https://github.com/ds-modules/BUDS-SU22"
     },
     "CalTeach-FA22": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "CalTeach Apprenticeship Program",
+        "department": "",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Fall 2022",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
