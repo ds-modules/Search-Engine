@@ -2566,7 +2566,7 @@
     },
     "Module-Feedback": {
         "name": "Module-Feedback",
-        "department": ",
+        "department": "",
         "number": "<course_number>",
         "semester": "",
         "domain": "<domain>",
