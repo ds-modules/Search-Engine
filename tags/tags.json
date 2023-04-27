@@ -97,8 +97,8 @@
     "BUDS-su20": {
         "name": "Berkeley Unboxing Data Science",
         "department": "Computing, Data Science, and Society",
-        "number": "Summer 2020",
-        "semester": "<course_semester>",
+        "number": "<course_number>",
+        "semester": "Summer 2020",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -190,10 +190,10 @@
         "url": "https://github.com/ds-modules/CalTeach-FA22"
     },
     "CE-110": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Water Systems of the Future",
+        "department": "Civil and Environmental Engineering",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Multiple",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -209,10 +209,10 @@
         "url": "https://github.com/ds-modules/CE-110"
     },
     "CE200B": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Numerical Methods for Environmental Flow Modeling",
+        "department": "Civil and Environmental Engineering",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Multiple",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -228,10 +228,10 @@
         "url": "https://github.com/ds-modules/CE200B"
     },
     "CIVENG-190": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Special Topics in Civil and Environmental Engineering",
+        "department": "Civil and Environmental Engineering",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Fall 2022",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -247,10 +247,10 @@
         "url": "https://github.com/ds-modules/CIVENG-190"
     },
     "COGSCI-1": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Introduction to Cognitive Science",
+        "department": "Interdisciplinary Social Science Programs",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Spring 2020",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -266,10 +266,10 @@
         "url": "https://github.com/ds-modules/COGSCI-1"
     },
     "COGSCI-131-FA20": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Computational Models of Cognition",
+        "department": "Interdisciplinary Social Science Programs",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Fall 2020",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -285,10 +285,10 @@
         "url": "https://github.com/ds-modules/COGSCI-131-FA20"
     },
     "COGSCI-1B": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Introduction to Cognitive Science",
+        "department": "Interdisciplinary Social Science Programs",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -304,10 +304,10 @@
         "url": "https://github.com/ds-modules/COGSCI-1B"
     },
     "COGSCI-C131-PSYCH-123-FA20": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Computational Models of Cognition",
+        "department": "Interdisciplinary Social Science Programs",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Fall 2020",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -323,10 +323,10 @@
         "url": "https://github.com/ds-modules/COGSCI-C131-PSYCH-123-FA20"
     },
     "Colab-data-8": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Colab-data-8",
+        "department": "",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -342,10 +342,10 @@
         "url": "https://github.com/ds-modules/Colab-data-8"
     },
     "colwrit-r4b": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Reading, Composition, and Research",
+        "department": "College Writing Programs",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -361,10 +361,10 @@
         "url": "https://github.com/ds-modules/colwrit-r4b"
     },
     "core-resources": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "core-resources",
+        "department": "",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -380,10 +380,10 @@
         "url": "https://github.com/ds-modules/core-resources"
     },
     "course-assets": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "course-assets",
+        "department": "",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -399,10 +399,10 @@
         "url": "https://github.com/ds-modules/course-assets"
     },
     "CP-101-SP21": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Introduction to Urban Data Analytics",
+        "department": "City and Regional Planning",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Spring 2021",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -418,10 +418,10 @@
         "url": "https://github.com/ds-modules/CP-101-SP21"
     },
     "CP-101-student": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Introduction to Urban Data Analytics",
+        "department": "City and Regional Planning",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Spring 2021",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -437,10 +437,10 @@
         "url": "https://github.com/ds-modules/CP-101-student"
     },
     "CP-113A": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Economic Analysis for Planning",
+        "department": "City and Regional Planning",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Fall 2019",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -456,10 +456,10 @@
         "url": "https://github.com/ds-modules/CP-113A"
     },
     "CP-113B": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Community and Economic Development",
+        "department": "City and Regional Planning",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -475,10 +475,10 @@
         "url": "https://github.com/ds-modules/CP-113B"
     },
     "CP101BigData": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Introduction to Urban Data Analytics",
+        "department": "City and Regional Planning",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -494,10 +494,10 @@
         "url": "https://github.com/ds-modules/CP101BigData"
     },
     "CUNEIF-102A": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Elementary Sumerian",
+        "department": "Near Eastern Studies",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -513,10 +513,10 @@
         "url": "https://github.com/ds-modules/CUNEIF-102A"
     },
     "curriculum-guide": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "curriculum-guide",
+        "department": "",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -532,10 +532,10 @@
         "url": "https://github.com/ds-modules/curriculum-guide"
     },
     "DATA-198-SP21": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Applied Data Science for Research and Discovery",
+        "department": "Data Science",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Spring 2021",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -551,10 +551,10 @@
         "url": "https://github.com/ds-modules/DATA-198-SP21"
     },
     "data-4ac": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Data and Justice",
+        "department": "Data Science",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Multiple",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -570,10 +570,10 @@
         "url": "https://github.com/ds-modules/data-4ac"
     },
     "DATA198-SP21.github.io": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Applied Data Science for Research and Discovery",
+        "department": "Data Science",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Spring 2021",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -589,10 +589,10 @@
         "url": "https://github.com/ds-modules/DATA198-SP21.github.io"
     },
     "Data198-SP22": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Applied Data Science for Research and Discovery",
+        "department": "Data Science",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Spring 2022",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -608,10 +608,10 @@
         "url": "https://github.com/ds-modules/Data198-SP22"
     },
     "DATA198-SP23": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Applied Data Science for Research and Discovery",
+        "department": "Data Science",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Spring 2023",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -627,10 +627,10 @@
         "url": "https://github.com/ds-modules/DATA198-SP23"
     },
     "data8-esp": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Data-8 Spanish",
+        "department": "Universidad Externado de Colombia",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -646,10 +646,10 @@
         "url": "https://github.com/ds-modules/data8-esp"
     },
     "DATA88-SP22": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Data Science Connector Environmental Data Analysis",
+        "department": "Data Science",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Spring 2022",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -665,10 +665,10 @@
         "url": "https://github.com/ds-modules/DATA88-SP22"
     },
     "datahub-homepage": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "datahub-homepage",
+        "department": "",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -684,10 +684,10 @@
         "url": "https://github.com/ds-modules/datahub-homepage"
     },
     "Deepnote-demo": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Deepnote-demo",
+        "department": "",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -703,10 +703,10 @@
         "url": "https://github.com/ds-modules/Deepnote-demo"
     },
     "DS-Modules": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "DS-Modules",
+        "department": "",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -722,10 +722,10 @@
         "url": "https://github.com/ds-modules/DS-Modules"
     },
     "ds-modules.github.io": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "ds-modules.github.io",
+        "department": "",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -741,10 +741,10 @@
         "url": "https://github.com/ds-modules/ds-modules.github.io"
     },
     "E-157AC": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Engineering, The Environment, and Society",
+        "department": "Engineering",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Spring 2019",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -760,10 +760,10 @@
         "url": "https://github.com/ds-modules/E-157AC"
     },
     "E7": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Introduction to Computer Programming for Scientists and Engineers",
+        "department": "Engineering",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -782,7 +782,7 @@
         "name": "Economic Theory-Macro",
         "department": "Economics",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1083,10 +1083,10 @@
         "url": "https://github.com/ds-modules/ECON-172-SP23"
     },
     "EDUC-223B": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Special Problems in Mathematics, Science and Technology Education",
+        "department": "Graduate School of Education",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1102,10 +1102,10 @@
         "url": "https://github.com/ds-modules/EDUC-223B"
     },
     "EDUC-W142": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Education in a Global World",
+        "department": "Graduate School of Education",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1121,10 +1121,10 @@
         "url": "https://github.com/ds-modules/EDUC-W142"
     },
     "EEP-147": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Regulation of Energy and the Environment",
+        "department": "Agricultural and Resource Economics and Policy",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1140,10 +1140,10 @@
         "url": "https://github.com/ds-modules/EEP-147"
     },
     "EEP-147-SP20": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Regulation of Energy and the Environment",
+        "department": "Agricultural and Resource Economics and Policy",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Spring 2020",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1159,10 +1159,10 @@
         "url": "https://github.com/ds-modules/EEP-147-SP20"
     },
     "EEP-147-SP21": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Regulation of Energy and the Environment",
+        "department": "Agricultural and Resource Economics and Policy",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Spring 2021",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1178,10 +1178,10 @@
         "url": "https://github.com/ds-modules/EEP-147-SP21"
     },
     "EEP-147-SP22": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Regulation of Energy and the Environment",
+        "department": "Agricultural and Resource Economics and Policy",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Spring 2022",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1197,10 +1197,10 @@
         "url": "https://github.com/ds-modules/EEP-147-SP22"
     },
     "EEP-147-SP23": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Regulation of Energy and the Environment",
+        "department": "Agricultural and Resource Economics and Policy",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Spring 2023",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1216,10 +1216,10 @@
         "url": "https://github.com/ds-modules/EEP-147-SP23"
     },
     "EEP102": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Natural Resource Economics",
+        "department": "Economics",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1235,10 +1235,10 @@
         "url": "https://github.com/ds-modules/EEP102"
     },
     "ENGIN-7": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Introduction to Computer Programming for Scientists and Engineers",
+        "department": "Engineering",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1257,7 +1257,7 @@
         "name": "Microeconomic Theory with Application to Natural Resources",
         "department": "Agricultural and Resource Economics and Policy",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1349,10 +1349,10 @@
         "url": "https://github.com/ds-modules/ENVECON-118-SP23"
     },
     "EPS-115-SP20": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Stratigraphy and Earth History",
+        "department": "Earth and Planetary Science",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Spring 2020",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1368,10 +1368,10 @@
         "url": "https://github.com/ds-modules/EPS-115-SP20"
     },
     "EPS-118-SP20": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Advanced Field Course",
+        "department": "Earth and Planetary Science",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Spring 2020",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1387,10 +1387,10 @@
         "url": "https://github.com/ds-modules/EPS-118-SP20"
     },
     "EPS-130": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Strong Motion Seismology",
+        "department": "Earth and Planetary Science",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1406,10 +1406,10 @@
         "url": "https://github.com/ds-modules/EPS-130"
     },
     "EPS-130-SP20": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Strong Motion Seismology",
+        "department": "Earth and Planetary Science",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Spring 2020",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1425,10 +1425,10 @@
         "url": "https://github.com/ds-modules/EPS-130-SP20"
     },
     "EPS-130-SP21": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Strong Motion Seismology",
+        "department": "Earth and Planetary Science",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Spring 2021",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1444,10 +1444,10 @@
         "url": "https://github.com/ds-modules/EPS-130-SP21"
     },
     "EPS-130-SP22": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Strong Motion Seismology",
+        "department": "Earth and Planetary Science",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Spring 2022",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1463,10 +1463,10 @@
         "url": "https://github.com/ds-modules/EPS-130-SP22"
     },
     "EPS-C20": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Earthquakes in Your Backyard",
+        "department": "Earth and Planetary Science",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Fall 2017",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1482,10 +1482,10 @@
         "url": "https://github.com/ds-modules/EPS-C20"
     },
     "EPS130-21521-SP23": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Strong Motion Seismology",
+        "department": "Earth and Planetary Science",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Spring 2023",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1501,10 +1501,10 @@
         "url": "https://github.com/ds-modules/EPS130-21521-SP23"
     },
     "EPS256-FA20": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Earthquake of the Week",
+        "department": "Earth and Planetary Science",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Spring 2023",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1520,10 +1520,10 @@
         "url": "https://github.com/ds-modules/EPS256-FA20"
     },
     "EPS88-24031-FA22": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "PyEarth: A Python Introduction to Earth Science",
+        "department": "Earth and Planetary Science",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Fall 2022",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1596,10 +1596,10 @@
         "url": "https://github.com/ds-modules/ES-21AC-SP21"
     },
     "ES-21AC-SP21-key": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "ES-21AC-SP21-key",
+        "department": "",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1615,10 +1615,10 @@
         "url": "https://github.com/ds-modules/ES-21AC-SP21-key"
     },
     "ESPM-109E-SP22": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Data Science, Communication, and Professionalism",
+        "department": "Environmental Science, Policy, and Management",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1634,10 +1634,10 @@
         "url": "https://github.com/ds-modules/ESPM-109E-SP22"
     },
     "ESPM-163ac": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Environmental Justice: Race, Class, Equity, and the Environment",
+        "department": "Environmental Science, Policy, and Management",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1653,10 +1653,10 @@
         "url": "https://github.com/ds-modules/ESPM-163ac"
     },
     "espm-c167": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Environmental Health and Development",
+        "department": "Environmental Science, Policy, and Management",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Spring 2021",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1672,10 +1672,10 @@
         "url": "https://github.com/ds-modules/espm-c167"
     },
     "ETHSTD-21AC": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "A Comparative Survey of Racial and Ethnic Groups in the U.S",
+        "department": "Ethnic Studies",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1710,10 +1710,10 @@
         "url": "https://github.com/ds-modules/ETHSTD-21AC-SP22"
     },
     "examples": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "examples",
+        "department": "",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1729,10 +1729,10 @@
         "url": "https://github.com/ds-modules/examples"
     },
     "featured-modules": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "featured-modules",
+        "department": "",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1748,10 +1748,10 @@
         "url": "https://github.com/ds-modules/featured-modules"
     },
     "FRENCH-43": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Aspects of French Culture",
+        "department": "French",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1786,10 +1786,10 @@
         "url": "https://github.com/ds-modules/GLOBAL-88-SP22"
     },
     "global-fa21": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Peace Theory: Approaches and Analyses",
+        "department": "Interdisciplinary Social Science Programs",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Fall 2021",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
