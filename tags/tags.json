@@ -1805,10 +1805,10 @@
         "url": "https://github.com/ds-modules/global-fa21"
     },
     "GS102-SurveyData-FA20": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Senior Seminar",
+        "department": "Interdisciplinary Social Science Programs",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Fall 2020",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1824,10 +1824,10 @@
         "url": "https://github.com/ds-modules/GS102-SurveyData-FA20"
     },
     "GWS-101": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Doing Feminist Research",
+        "department": "Gender and Womens Studies",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1843,10 +1843,10 @@
         "url": "https://github.com/ds-modules/GWS-101"
     },
     "GWS-131": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Gender and Science",
+        "department": "Gender and Womens Studies",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1862,10 +1862,10 @@
         "url": "https://github.com/ds-modules/GWS-131"
     },
     "HCE-Materials": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "HCE-Materials",
+        "department": "",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1881,10 +1881,10 @@
         "url": "https://github.com/ds-modules/HCE-Materials"
     },
     "HIST-160": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "The International Economy of the 20th Century",
+        "department": "History",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1900,10 +1900,10 @@
         "url": "https://github.com/ds-modules/HIST-160"
     },
     "HIST-283": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Historical Method and Theory",
+        "department": "History",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1919,10 +1919,10 @@
         "url": "https://github.com/ds-modules/HIST-283"
     },
     "HIST-88": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "How Does History Count?",
+        "department": "History",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1938,10 +1938,10 @@
         "url": "https://github.com/ds-modules/HIST-88"
     },
     "HTRC-Uncamp": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "HTRC-Uncamp Conference",
+        "department": "",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1957,10 +1957,10 @@
         "url": "https://github.com/ds-modules/HTRC-Uncamp"
     },
     "IAS-106": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Intermediate Microeconomic Theory",
+        "department": "Interdisciplinary Social Science Programs",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1976,10 +1976,10 @@
         "url": "https://github.com/ds-modules/IAS-106"
     },
     "IAS-150": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Advanced Studies in International and Area Studies",
+        "department": "Interdisciplinary Social Science Programs",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -1995,10 +1995,10 @@
         "url": "https://github.com/ds-modules/IAS-150"
     },
     "IB-105-ESPM-125-fa20": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Natural History Museums and Biodiversity Science",
+        "department": "Environmental Science, Policy, and Management",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Fall 2020",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2014,10 +2014,10 @@
         "url": "https://github.com/ds-modules/IB-105-ESPM-125-fa20"
     },
     "IB-105-ESPM-125-FA21": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Natural History Museums and Biodiversity Science",
+        "department": "Environmental Science, Policy, and Management",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Fall 2021",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2033,10 +2033,10 @@
         "url": "https://github.com/ds-modules/IB-105-ESPM-125-FA21"
     },
     "IB-161-SP21": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Population and Evolutionary Genetics",
+        "department": "Integrative Biology",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Spring 2021",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2052,10 +2052,10 @@
         "url": "https://github.com/ds-modules/IB-161-SP21"
     },
     "IB-C32": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Bioinspired Design",
+        "department": "Integrative Biology",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2071,10 +2071,10 @@
         "url": "https://github.com/ds-modules/IB-C32"
     },
     "IB-ESPM-105": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Natural History Museums and Biodiversity Science",
+        "department": "Integrative Biology",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2090,10 +2090,10 @@
         "url": "https://github.com/ds-modules/IB-ESPM-105"
     },
     "INFO-290": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Special Topics in Information Privacy and Security Lab",
+        "department": "School of Information",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Spring 2018",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2109,10 +2109,10 @@
         "url": "https://github.com/ds-modules/INFO-290"
     },
     "infodem-covid-babies": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "infodem-covid-babies",
+        "department": "",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2128,10 +2128,10 @@
         "url": "https://github.com/ds-modules/infodem-covid-babies"
     },
     "infodem-mental-health": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "infodem-mental-health",
+        "department": "",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2147,10 +2147,10 @@
         "url": "https://github.com/ds-modules/infodem-mental-health"
     },
     "Infodemiology-Mental-Health": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Infodemiology-Mental-Health",
+        "department": "",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2166,10 +2166,10 @@
         "url": "https://github.com/ds-modules/Infodemiology-Mental-Health"
     },
     "Infodemiology-Nutrition": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Infodemiology-Nutrition",
+        "department": "",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2185,10 +2185,10 @@
         "url": "https://github.com/ds-modules/Infodemiology-Nutrition"
     },
     "Infodemiology-Pregnancy": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Infodemiology-Pregnancy",
+        "department": "",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2204,10 +2204,10 @@
         "url": "https://github.com/ds-modules/Infodemiology-Pregnancy"
     },
     "Infodemiology-Projects": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Infodemiology-Projects",
+        "department": "",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2223,10 +2223,10 @@
         "url": "https://github.com/ds-modules/Infodemiology-Projects"
     },
     "ISF-189": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Introduction to Interdisciplinary Research Methods",
+        "department": "Undergraduate Interdisciplinary Studies",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2242,10 +2242,10 @@
         "url": "https://github.com/ds-modules/ISF-189"
     },
     "LEGAL-190-FA22": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Seminar on Topics in Law and Society",
+        "department": "Letters & Science Legal Studies",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Fall 2022",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2261,10 +2261,10 @@
         "url": "https://github.com/ds-modules/LEGAL-190-FA22"
     },
     "Legalst-123": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Data, Prediction & Law",
+        "department": "Letters & Science Legal Studies",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2280,10 +2280,10 @@
         "url": "https://github.com/ds-modules/Legalst-123"
     },
     "LEGALST-190": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Seminar on Topics in Law and Society",
+        "department": "Letters & Science Legal Studies",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2299,10 +2299,10 @@
         "url": "https://github.com/ds-modules/LEGALST-190"
     },
     "Library": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Library",
+        "department": "",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2318,10 +2318,10 @@
         "url": "https://github.com/ds-modules/Library"
     },
     "Library-Data-Workshop-Fall-2022": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Library Data Workshop",
+        "department": "",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Fall 2022",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2337,10 +2337,10 @@
         "url": "https://github.com/ds-modules/Library-Data-Workshop-Fall-2022"
     },
     "Library-HTRC": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Library HathiTrust Connection",
+        "department": "",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2356,10 +2356,10 @@
         "url": "https://github.com/ds-modules/Library-HTRC"
     },
     "LINGUIS-110": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Introduction to Phonetics and Phonology",
+        "department": "Linguistics",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2375,10 +2375,10 @@
         "url": "https://github.com/ds-modules/LINGUIS-110"
     },
     "LS-22": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Sense and Sensibility and Science",
+        "department": "Undergraduate Interdisciplinary Studies",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Spring 2020",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2394,10 +2394,10 @@
         "url": "https://github.com/ds-modules/LS-22"
     },
     "LS-88": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Data Science Connector",
+        "department": "Undergraduate Interdisciplinary Studies",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2413,10 +2413,10 @@
         "url": "https://github.com/ds-modules/LS-88"
     },
     "materials-x22": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "materials-x22",
+        "department": "",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2432,10 +2432,10 @@
         "url": "https://github.com/ds-modules/materials-x22"
     },
     "MCB-140": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "General Genetics",
+        "department": "Molecular and Cell Biology",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2451,10 +2451,10 @@
         "url": "https://github.com/ds-modules/MCB-140"
     },
     "MCB-163L": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Mammalian Neuroanatomy Lab",
+        "department": "Molecular and Cell Biology",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2470,10 +2470,10 @@
         "url": "https://github.com/ds-modules/MCB-163L"
     },
     "MCB-288": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Data Science for Molecular and Cell Biology",
+        "department": "Molecular and Cell Biology",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2489,10 +2489,10 @@
         "url": "https://github.com/ds-modules/MCB-288"
     },
     "MCB-32": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Introduction to Human Physiology",
+        "department": "Molecular and Cell Biology",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Fall 2018",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2508,10 +2508,10 @@
         "url": "https://github.com/ds-modules/MCB-32"
     },
     "MCB-50": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "The Immune System and Disease",
+        "department": "Molecular and Cell Biology",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2527,10 +2527,10 @@
         "url": "https://github.com/ds-modules/MCB-50"
     },
     "MECENG-103": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Experimentation and Measurements",
+        "department": "Mechanical Engineering",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Spring 2022",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2546,10 +2546,10 @@
         "url": "https://github.com/ds-modules/MECENG-103"
     },
     "MEDST-250": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Seminar in Medieval Culture",
+        "department": "Medieval Studies Program",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Spring 2018",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2565,10 +2565,10 @@
         "url": "https://github.com/ds-modules/MEDST-250"
     },
     "Module-Feedback": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Module-Feedback",
+        "department": ",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2584,10 +2584,10 @@
         "url": "https://github.com/ds-modules/Module-Feedback"
     },
     "modules-ipynb-workshop": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "modules-ipynb-workshop",
+        "department": "",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2603,10 +2603,10 @@
         "url": "https://github.com/ds-modules/modules-ipynb-workshop"
     },
     "modules-textbook": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Modules Textbook",
+        "department": "",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2622,10 +2622,10 @@
         "url": "https://github.com/ds-modules/modules-textbook"
     },
     "music-30": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Computational Creativity for Music and the Arts",
+        "department": "Music",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2641,10 +2641,10 @@
         "url": "https://github.com/ds-modules/music-30"
     },
     "nbinteract-image": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "nbinteract-image",
+        "department": "",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2660,10 +2660,10 @@
         "url": "https://github.com/ds-modules/nbinteract-image"
     },
     "NESTUD-190A": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Special Topics in Fields of Near Eastern Studies: Ancient Near Eastern Studies",
+        "department": "Near Eastern Studies",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2679,10 +2679,10 @@
         "url": "https://github.com/ds-modules/NESTUD-190A"
     },
     "PACS-190": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Senior Seminar",
+        "department": "Interdisciplinary Social Science Programs",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2698,10 +2698,10 @@
         "url": "https://github.com/ds-modules/PACS-190"
     },
     "PH-142": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Introduction to Probability and Statistics in Biology and Public Health",
+        "department": "School of Public Health",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Fall 2018",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2717,10 +2717,10 @@
         "url": "https://github.com/ds-modules/PH-142"
     },
     "PH150E-CP117AC": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Introduction to Community Health and Human Development",
+        "department": "School of Public Health",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2736,10 +2736,10 @@
         "url": "https://github.com/ds-modules/PH150E-CP117AC"
     },
     "polisci-3": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Introduction to Empirical Analysis and Quantitative Methods",
+        "department": "Political Science",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Fall 2022",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2755,10 +2755,10 @@
         "url": "https://github.com/ds-modules/polisci-3"
     },
     "POLSCI-3": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Introduction to Empirical Analysis and Quantitative Methods",
+        "department": "Political Science",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2774,10 +2774,10 @@
         "url": "https://github.com/ds-modules/POLSCI-3"
     },
     "POLSCI-5": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Introduction to International Relations",
+        "department": "Political Science",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Fall 2019",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2793,10 +2793,10 @@
         "url": "https://github.com/ds-modules/POLSCI-5"
     },
     "POLSCI3-FA20": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Introduction to Empirical Analysis and Quantitative Methods",
+        "department": "Political Science",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Fall 2020",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2812,10 +2812,10 @@
         "url": "https://github.com/ds-modules/POLSCI3-FA20"
     },
     "POLSCI3-Fa20-Dev": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Introduction to Empirical Analysis and Quantitative Methods",
+        "department": "Political Science",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Fall 2020",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2831,10 +2831,10 @@
         "url": "https://github.com/ds-modules/POLSCI3-Fa20-Dev"
     },
     "ps-106a": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "American Politics: Campaign Strategy - Media",
+        "department": "Political Science",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2850,10 +2850,10 @@
         "url": "https://github.com/ds-modules/ps-106a"
     },
     "PS-88-21-DEV": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "The Scientific Study of Politics",
+        "department": "Political Science",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Fall 2021",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2869,10 +2869,10 @@
         "url": "https://github.com/ds-modules/PS-88-21-DEV"
     },
     "PS88-SP23-Public": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "The Scientific Study of Politics",
+        "department": "Political Science",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Spring 2023",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2888,10 +2888,10 @@
         "url": "https://github.com/ds-modules/PS88-SP23-Public"
     },
     "PSYCH-167AC": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Stigma and Prejudice",
+        "department": "Psychology",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Spring 2018",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2907,10 +2907,10 @@
         "url": "https://github.com/ds-modules/PSYCH-167AC"
     },
     "PUBPOL-ETHSTD-C164A-SP23": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Special Topics in Public Policy",
+        "department": "School of Public Policy",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Spring 2023",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2926,10 +2926,10 @@
         "url": "https://github.com/ds-modules/PUBPOL-ETHSTD-C164A-SP23"
     },
     "R-Module": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Introductory R",
+        "department": "",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2945,10 +2945,10 @@
         "url": "https://github.com/ds-modules/R-Module"
     },
     "RDM-DeCal": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Data management",
+        "department": "",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2964,10 +2964,10 @@
         "url": "https://github.com/ds-modules/RDM-DeCal"
     },
     "sample-intro-notebooks": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Sample Intro Notebooks",
+        "department": "",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -2983,10 +2983,10 @@
         "url": "https://github.com/ds-modules/sample-intro-notebooks"
     },
     "sather-tower": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Sather Tower Engineering Project",
+        "department": "",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -3002,10 +3002,10 @@
         "url": "https://github.com/ds-modules/sather-tower"
     },
     "Search-Engine": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Modules Search Engine",
+        "department": "",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -3021,10 +3021,10 @@
         "url": "https://github.com/ds-modules/Search-Engine"
     },
     "SOC-130AC": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Selected Topics in Social Inequality",
+        "department": "Sociology",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -3040,10 +3040,10 @@
         "url": "https://github.com/ds-modules/SOC-130AC"
     },
     "SOC-5": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Evaluation of Evidence",
+        "department": "Sociology",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -3059,10 +3059,10 @@
         "url": "https://github.com/ds-modules/SOC-5"
     },
     "SOC-5-Fall19": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Evaluation of Evidence",
+        "department": "Sociology",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Fall 2019",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -3078,10 +3078,10 @@
         "url": "https://github.com/ds-modules/SOC-5-Fall19"
     },
     "SOC-88-SP21": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Data Science for Social Impact",
+        "department": "Sociology",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Spring 2021",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -3097,10 +3097,10 @@
         "url": "https://github.com/ds-modules/SOC-88-SP21"
     },
     "Spanish": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Spanish Modules",
+        "department": "",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -3116,10 +3116,10 @@
         "url": "https://github.com/ds-modules/Spanish"
     },
     "SPORTS": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Data Science Sports Connector",
+        "department": "",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -3135,10 +3135,10 @@
         "url": "https://github.com/ds-modules/SPORTS"
     },
     "surveydata": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Senior Seminar",
+        "department": "Interdisciplinary Social Science Programs",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Fall 2019",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -3154,10 +3154,10 @@
         "url": "https://github.com/ds-modules/surveydata"
     },
     "SW-282": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Seminar in Social Welfare Research",
+        "department": "School of Social Welfare",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -3173,10 +3173,10 @@
         "url": "https://github.com/ds-modules/SW-282"
     },
     "textbook": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Intro to Computational Thinking with Data",
+        "department": "",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -3191,11 +3191,11 @@
         "is_course": true,
         "url": "https://github.com/ds-modules/textbook"
     },
-    "workshop-su20": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "workshop-su20": {
+        "name": "workshop-su20",
+        "department": "",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Summer 2020",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -3211,10 +3211,10 @@
         "url": "https://github.com/ds-modules/workshop-su20"
     },
     "XENGLIS-31AC": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "Literature of American Cultures",
+        "department": "UC Berkeley Extension",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "Fall 2017",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
@@ -3230,10 +3230,10 @@
         "url": "https://github.com/ds-modules/XENGLIS-31AC"
     },
     "XRHETOR-R1A": {
-        "name": "<course_name>",
-        "department": "<department_name>",
+        "name": "The Craft of Writing",
+        "department": "UC Berkeley Extension",
         "number": "<course_number>",
-        "semester": "<course_semester>",
+        "semester": "",
         "domain": "<domain>",
         "prerequisites": [
             "<prereq1>"
