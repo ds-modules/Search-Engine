@@ -11,3 +11,7 @@ const observer = new IntersectionObserver(entries => {
 });
 
 observer.observe(slideInText2);
+
+setTimeout(function() {
+  document.querySelector(".i1").classList.add("zoom-in"); /* add the class to start the animation */
+}, 3000);
