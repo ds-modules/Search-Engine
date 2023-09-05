@@ -1,0 +1,25 @@
+{% load static %}
+
+{% for repo,department,name, semester in information %}
+    <div class='column_test'>
+      <div class="container card-container" style="width: 250%; margin-left: 20px; margin-right: 20px; margin-top: 20px;">
+        <div class="row row-cols-1 row-cols-md-3 g-4">
+            <div class="col">
+              <div class="card h-100">
+                <a href='https://github.com/ds-modules/{{repo}}' style="text-decoration: none" target="_blank">
+                  <img src="{% static "media/image5.png" %}" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h4 class="card-title">{{name}}</h4>
+                        <h7 class="card-subtitle mb-2 text-muted"><b>Department: </b>{{department}}</h7><br>
+                        <h7 class="card-subtitle mb-2 text-muted"><b>Repository: </b>{{repo}}</h7><br>
+                        <h7 class="card-subtitle mb-2 text-muted"><b>Semester: </b>{{semester}}</h7><br>
+                        <h7 class="card-subtitle mb-2 text-muted"><b>Prerequisites: </b></h7>
+                        <p class="card-text"></p>
+                    </div>
+                </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+{% endfor %}
