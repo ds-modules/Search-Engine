@@ -1,4 +1,4 @@
-# DS Modules Search Engine Database
+# DS Modules Search Engine Database for http://ds-modules.github.io/
 
 Team Lead - Salvador Ramirez Jr
 Developer Team - Vishali Vallioor, Medha Iyer
